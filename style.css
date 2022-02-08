@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(222, 196, 247);
+}
+.textname{
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.py-2 {
+    color: cornflowerblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
